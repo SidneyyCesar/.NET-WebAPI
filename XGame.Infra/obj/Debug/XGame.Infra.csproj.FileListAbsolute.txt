@@ -35,3 +35,41 @@ C:\_dev\projeto\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CoreCompileInputs
 C:\_dev\projeto\XGame\XGame.Infra\obj\Debug\XGame.Infra.dll
 C:\_dev\projeto\XGame\XGame.Infra\obj\Debug\XGame.Infra.pdb
 C:\_dev\projeto\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.Jogo.resources
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\XGame.Infra.dll.config
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\XGame.Infra.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\XGame.Infra.pdb
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\EntityFramework.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.AppContext.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Console.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Globalization.Calendars.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.IO.Compression.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.IO.FileSystem.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Net.Http.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Net.Sockets.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\XGame.Domain.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\XGame.Domain.pdb
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\XGame.Domain.dll.config
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\EntityFramework.xml
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.csprojResolveAssemblyReference.cache
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.Migrations.CriandoBanco.resources
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.Migrations.MapeandoPlataforma.resources
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.Migrations.Jogo.resources
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.csproj.GenerateResource.cache
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.csproj.CoreCompileInputs.cache
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.csproj.CopyComplete
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Infra\obj\Debug\XGame.Infra.pdb
