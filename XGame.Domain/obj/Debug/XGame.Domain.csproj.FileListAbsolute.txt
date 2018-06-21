@@ -26,3 +26,32 @@ C:\_dev\projeto\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInpu
 C:\_dev\projeto\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
 C:\_dev\projeto\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb
 C:\_dev\projeto\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojResolveAssemblyReference.cache
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\XGame.Domain.dll.config
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\XGame.Domain.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\XGame.Domain.pdb
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.AppContext.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Console.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Globalization.Calendars.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.IO.Compression.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.IO.FileSystem.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Net.Http.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Net.Sockets.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\obj\Debug\XGame.Domain.csprojResolveAssemblyReference.cache
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\obj\Debug\XGame.Domain.Resources.Message.resources
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\obj\Debug\XGame.Domain.csproj.GenerateResource.cache
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs.cache
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\obj\Debug\XGame.Domain.dll
+C:\Programacao\Treinamento\Udemy Course - API Robustas em .NET\XGame.Domain\obj\Debug\XGame.Domain.pdb
